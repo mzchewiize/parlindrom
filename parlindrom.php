@@ -21,7 +21,7 @@ function is_parlindrom($params)
 }
 
 # example the words 
-$word = "Amor";
+$word = "AMANAPLANACANALPANAMA ";
 
 echo (is_parlindrom($word) == true) ? "this is palindrom" : "this is not parlindrom";
 ?>
